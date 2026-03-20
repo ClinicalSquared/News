@@ -1,0 +1,1 @@
+This is our repository for Clinical Squared newsletter content. The newsletter, named Squared Up, is released on a monthly cadence currently, but may be increased to weekly as we experiment with efficiencies realized from publishing from our github  
